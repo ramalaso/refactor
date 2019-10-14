@@ -1,6 +1,6 @@
-package movies;
+package com.jalasoft.models;
 
-class Rental {
+public class Rental {
     private Movie _movie;
     private int _daysRented;
 

@@ -1,4 +1,4 @@
-package movies;
+package com.jalasoft.models;
 
 public class Movie {
     public static final int CHILDRENS = 2;

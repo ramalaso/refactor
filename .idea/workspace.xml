@@ -1,24 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26e463b8-bc78-4afd-a4ff-3c1c5a3fda0f" name="Default Changelist" comment="" />
+    <list default="true" id="7d2cbce4-5618-41fb-a813-c3f1d080ecce" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1SCjbeIFKuMTo1o6Rj2AJpaNd4t" />
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="185" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SCkcT6q1Kno0EuuYDp1nR1J4d4" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Facets" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.5326505" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Task/Task/refactor" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\RaulLaredo\Downloads\Task\Task\src\movies\models" />
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.jalasoft.models" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\RaulLaredo\Documents\Task\src\com\jalasoft\models" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -33,17 +53,100 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.RentalTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jalasoft.Main" />
+      <module name="Task" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest.getName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jalasoft.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jalasoft.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.jalasoft.tests.CustomerTest" />
+      <option name="METHOD_NAME" value="getName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jalasoft.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jalasoft.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.jalasoft.tests.MovieTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RentalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jalasoft.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jalasoft.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.jalasoft.tests.RentalTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.CustomerTest.getName" />
+      <item itemvalue="JUnit.MovieTest" />
+      <item itemvalue="JUnit.RentalTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RentalTest" />
+        <item itemvalue="JUnit.MovieTest" />
+        <item itemvalue="JUnit.CustomerTest.getName" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="26e463b8-bc78-4afd-a4ff-3c1c5a3fda0f" name="Default Changelist" comment="" />
-      <created>1571074544276</created>
+      <changelist id="7d2cbce4-5618-41fb-a813-c3f1d080ecce" name="Default Changelist" comment="" />
+      <created>1571075043061</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571074544276</updated>
+      <updated>1571075043061</updated>
     </task>
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Task$CustomerTest_getName.ic" NAME="CustomerTest.getName Coverage Results" MODIFIED="1571076638386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.jalasoft.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task$MovieTest.ic" NAME="MovieTest Coverage Results" MODIFIED="1571076876549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.jalasoft.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task$RentalTest.ic" NAME="RentalTest Coverage Results" MODIFIED="1571077133414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.jalasoft.models.*</FILTER>
+    </SUITE>
   </component>
 </project>

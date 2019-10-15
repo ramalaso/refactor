@@ -6,7 +6,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class RentalTest {
-    Rental rental = new Rental(new Movie("Grinch", 13), 2);
+    Rental rental = new Rental(new Movie("Grinch"), 2);
     @Test
     public void getDaysRented() {
         assertEquals("Grinch", rental.getMovie().getTitle());

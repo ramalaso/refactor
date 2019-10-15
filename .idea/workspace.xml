@@ -28,7 +28,9 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Task/Task/refactor" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -161,7 +163,7 @@
     <SUITE FILE_PATH="coverage/Task$MovieTest.ic" NAME="MovieTest Coverage Results" MODIFIED="1571076876549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.jalasoft.models.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Task$com_jalasoft_tests_in_Task.ic" NAME="com.jalasoft.tests in Task Coverage Results" MODIFIED="1571077699590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Task$com_jalasoft_tests_in_Task.ic" NAME="com.jalasoft.tests in Task Coverage Results" MODIFIED="1571151235156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.jalasoft.tests.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Task$RentalTest.ic" NAME="RentalTest Coverage Results" MODIFIED="1571077684062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

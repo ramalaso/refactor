@@ -6,7 +6,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class MovieTest {
-    Movie movie = new Movie("Grinch", 13);
+    Movie movie = new Movie("Grinch");
 
     @Test
     public void getPriceCode() {

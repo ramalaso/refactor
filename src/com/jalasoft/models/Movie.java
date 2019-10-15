@@ -1,7 +1,6 @@
 package com.jalasoft.models;
 
 public class Movie extends Price {
-    Price price = new Price();
     private String _title;
 
     public Movie(String title) {
@@ -10,5 +9,11 @@ public class Movie extends Price {
 
     public String getTitle() {
         return _title;
+    }
+
+
+    @Override
+    public int getPriceCode() {
+
     }
 }
